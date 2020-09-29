@@ -55,3 +55,9 @@ z = x + y;    // Statement 4
 document.getElementById("demo").innerHTML =
 "The value of z is " + z + "."; 
 ```
+
+```python
+# This program prints Hello, world!
+
+print('Hello, world!')
+```
