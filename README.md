@@ -61,3 +61,32 @@ document.getElementById("demo").innerHTML =
 
 print('Hello, world!')
 ```
+
+## `Markdown` 
+```markdown
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+ 1. Item 1
+ 2. Item 2
+ 3. Item 3
+    * Item 3a
+    * Item 3b
+
+ ![NKUST logo](logo.png "高科大")
+ ```
+ 
+| First | Second | Third |
+|:---- |:------:|------:|
+|cell 1 | cell 2| number cell 3|
+|cell 1 | cell 2| number cell 3|
+|cell 1 | cell 2| number cell 3|
+|cell 1 | cell 2| number cell 3|
+
+:+1:
+
+:smile:
+
+:sparkles:
