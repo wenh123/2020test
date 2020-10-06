@@ -28,6 +28,13 @@ __This text will be bold__
 
  ![NKUST logo](logo.png "高科大")
  
+ ![](https://i.imgur.com/9cgQVqD.png)
+
+:::info
+:bulb: **提示**: 如您使用私有團隊方案，圖片會上傳到私有的 S3 空間，且只能透過筆記存取圖片。
+:::
+ 
+ 
  <https://elearning.nkust.edu.tw/mooc/index.php>
  
  [NKUST E-learning](https://elearning.nkust.edu.tw/mooc/index.php)
