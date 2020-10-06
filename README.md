@@ -30,6 +30,8 @@ __This text will be bold__
 
  ![NKUST logo](logo.png "高科大")
  
+ <img src="https://github.com/wenh123/2020test/blob/master/logo.png" alt="Your image title" width="250"/>
+ 
  ![](https://i.imgur.com/9cgQVqD.png)
 
 :::info
