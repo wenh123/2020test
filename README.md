@@ -106,9 +106,9 @@ print('Hello, world!')
 - [ ] this is incomplete
 
 ```sequence
-# 艾莉絲->包柏: 哈摟，你好嗎？
+艾莉絲->包柏: 哈摟，你好嗎？
 Note right of 包柏: 包柏思考中
 包柏-->艾莉絲: 我很好，謝謝！
-Note left of 艾莉絲: 艾莉絲回應
+-Note left of 艾莉絲: 艾莉絲回應-
 艾莉絲->包柏: 最近過得怎樣？
 ```
