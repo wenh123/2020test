@@ -32,7 +32,9 @@ __This text will be bold__
  
  <img src="https://github.com/wenh123/2020test/blob/master/logo.png" alt="Your image title" width="250"/>
  
- ![](https://i.imgur.com/9cgQVqD.png)
+ ![](https://i.imgur.com/9cgQVqD.png )
+
+<img src="https://i.imgur.com/9cgQVqD.png" alt="IMGUR LOGO" width="250"/>
 
 :::info
 :bulb: **提示**: 如您使用私有團隊方案，圖片會上傳到私有的 S3 空間，且只能透過筆記存取圖片。
